@@ -4,3 +4,24 @@
 [submodule "bundle/vim-repeat"]
 	path = bundle/vim-repeat
 	url = https://github.com/tpope/vim-repeat.git
+[submodule "bundle/jslint.vim"]
+	path = bundle/jslint.vim
+	url = https://github.com/hallettj/jslint.vim.git
+[submodule "bundle/snipmate.vim"]
+	path = bundle/snipmate.vim
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "bundle/Colour-Sampler-Pack"]
+	path = bundle/Colour-Sampler-Pack
+	url = https://github.com/vim-scripts/Colour-Sampler-Pack.git
+[submodule "bundle/emmet-vim"]
+	path = bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
+[submodule "bundle/vim-jsbeautify"]
+	path = bundle/vim-jsbeautify
+	url = https://github.com/maksimr/vim-jsbeautify.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
